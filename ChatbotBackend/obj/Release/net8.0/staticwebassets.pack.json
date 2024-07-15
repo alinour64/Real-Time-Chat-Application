@@ -1,0 +1,101 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\alino\\OneDrive\\Other\\Programming\\Projects\\Real_Time_Chat_App\\ChatbotBackend\\wwwroot\\asset-manifest.json",
+      "PackagePath": "staticwebassets\\asset-manifest.json"
+    },
+    {
+      "Id": "C:\\Users\\alino\\OneDrive\\Other\\Programming\\Projects\\Real_Time_Chat_App\\ChatbotBackend\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\alino\\OneDrive\\Other\\Programming\\Projects\\Real_Time_Chat_App\\ChatbotBackend\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\alino\\OneDrive\\Other\\Programming\\Projects\\Real_Time_Chat_App\\ChatbotBackend\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\alino\\OneDrive\\Other\\Programming\\Projects\\Real_Time_Chat_App\\ChatbotBackend\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\alino\\OneDrive\\Other\\Programming\\Projects\\Real_Time_Chat_App\\ChatbotBackend\\wwwroot\\static\\css\\main.0a514cbe.css",
+      "PackagePath": "staticwebassets\\static\\css\\main.0a514cbe.css"
+    },
+    {
+      "Id": "C:\\Users\\alino\\OneDrive\\Other\\Programming\\Projects\\Real_Time_Chat_App\\ChatbotBackend\\wwwroot\\static\\css\\main.0a514cbe.css.map",
+      "PackagePath": "staticwebassets\\static\\css\\main.0a514cbe.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alino\\OneDrive\\Other\\Programming\\Projects\\Real_Time_Chat_App\\ChatbotBackend\\wwwroot\\static\\css\\main.59f3c946.css",
+      "PackagePath": "staticwebassets\\static\\css\\main.59f3c946.css"
+    },
+    {
+      "Id": "C:\\Users\\alino\\OneDrive\\Other\\Programming\\Projects\\Real_Time_Chat_App\\ChatbotBackend\\wwwroot\\static\\css\\main.59f3c946.css.map",
+      "PackagePath": "staticwebassets\\static\\css\\main.59f3c946.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alino\\OneDrive\\Other\\Programming\\Projects\\Real_Time_Chat_App\\ChatbotBackend\\wwwroot\\static\\css\\main.7446f036.css",
+      "PackagePath": "staticwebassets\\static\\css\\main.7446f036.css"
+    },
+    {
+      "Id": "C:\\Users\\alino\\OneDrive\\Other\\Programming\\Projects\\Real_Time_Chat_App\\ChatbotBackend\\wwwroot\\static\\css\\main.7446f036.css.map",
+      "PackagePath": "staticwebassets\\static\\css\\main.7446f036.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alino\\OneDrive\\Other\\Programming\\Projects\\Real_Time_Chat_App\\ChatbotBackend\\wwwroot\\static\\js\\main.0d3e9445.js",
+      "PackagePath": "staticwebassets\\static\\js\\main.0d3e9445.js"
+    },
+    {
+      "Id": "C:\\Users\\alino\\OneDrive\\Other\\Programming\\Projects\\Real_Time_Chat_App\\ChatbotBackend\\wwwroot\\static\\js\\main.0d3e9445.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\static\\js\\main.0d3e9445.js.LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\alino\\OneDrive\\Other\\Programming\\Projects\\Real_Time_Chat_App\\ChatbotBackend\\wwwroot\\static\\js\\main.0d3e9445.js.map",
+      "PackagePath": "staticwebassets\\static\\js\\main.0d3e9445.js.map"
+    },
+    {
+      "Id": "C:\\Users\\alino\\OneDrive\\Other\\Programming\\Projects\\Real_Time_Chat_App\\ChatbotBackend\\wwwroot\\static\\js\\main.3aea45e1.js",
+      "PackagePath": "staticwebassets\\static\\js\\main.3aea45e1.js"
+    },
+    {
+      "Id": "C:\\Users\\alino\\OneDrive\\Other\\Programming\\Projects\\Real_Time_Chat_App\\ChatbotBackend\\wwwroot\\static\\js\\main.3aea45e1.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\static\\js\\main.3aea45e1.js.LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\alino\\OneDrive\\Other\\Programming\\Projects\\Real_Time_Chat_App\\ChatbotBackend\\wwwroot\\static\\js\\main.3aea45e1.js.map",
+      "PackagePath": "staticwebassets\\static\\js\\main.3aea45e1.js.map"
+    },
+    {
+      "Id": "C:\\Users\\alino\\OneDrive\\Other\\Programming\\Projects\\Real_Time_Chat_App\\ChatbotBackend\\wwwroot\\static\\js\\main.60e28b85.js",
+      "PackagePath": "staticwebassets\\static\\js\\main.60e28b85.js"
+    },
+    {
+      "Id": "C:\\Users\\alino\\OneDrive\\Other\\Programming\\Projects\\Real_Time_Chat_App\\ChatbotBackend\\wwwroot\\static\\js\\main.60e28b85.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\static\\js\\main.60e28b85.js.LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\alino\\OneDrive\\Other\\Programming\\Projects\\Real_Time_Chat_App\\ChatbotBackend\\wwwroot\\static\\js\\main.60e28b85.js.map",
+      "PackagePath": "staticwebassets\\static\\js\\main.60e28b85.js.map"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.ChatbotBackend.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.build.ChatbotBackend.props",
+      "PackagePath": "build\\ChatbotBackend.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ChatbotBackend.props",
+      "PackagePath": "buildMultiTargeting\\ChatbotBackend.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildTransitive.ChatbotBackend.props",
+      "PackagePath": "buildTransitive\\ChatbotBackend.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
